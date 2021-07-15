@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max397574" alt="max397574" /></a> </p>
 
-- 🔭 I’m currently working on [My Vim Configuration and starting frontend with a blog](https://max397574.github.io)
+- 🔭 I’m currently working on developing my first neovim plugins.
 
-- 🌱 I’m currently learning **frontend.**
+- 🌱 I’m currently learning lua to write neovim plugins.**
 
-- 👯 I’m looking to collaborate on **simple python projects**
+- 👯 I’m looking to collaborate on **simple python projects.*
 
-- 🤝 I’m looking for help with [my blog](https://max397574.github.io)
+- 🤝 Feel free to give me any tips for my neovim configuration.
 
 
 <h3 align="left">Languages and Tools:</h3>
