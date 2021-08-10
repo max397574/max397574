@@ -1,5 +1,4 @@
 ### Hi there 👋
-# max397574.github.io
 
 <h1 align="center">Hi 👋, I'm Max397574</h1>
 <h3 align="center">A Student From Switzerland</h3>
@@ -8,13 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max397574" alt="max397574" /></a> </p>
 
-- 🔭 I’m currently working on developing my first neovim plugins.
+- 🔭 I'm currently working on developing my first neovim plugins.
 
-- 🌱 I’m currently learning lua to write neovim plugins.**
+- 🌱 I'm currently learning lua to write neovim plugins.
 
-- 👯 I’m looking to collaborate on **simple python projects.*
-
-- 🤝 Feel free to give me any tips for my neovim configuration.
+- 🤝 Feel free to give me any tips for my neovim configuration or any of my plugins.
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +20,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=max397574&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max397574&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
