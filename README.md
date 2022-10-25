@@ -25,6 +25,7 @@ I am a Student from Switzerland.
 </div>
 
 
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=max397574&theme=dark&background=000000&show_icons=true)]
+<!-- [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=max397574&theme=dark&background=000000&show_icons=true)] -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=max397574&theme=onedark&border_radius=6&background=242939)](https://git.io/streak-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max397574&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
