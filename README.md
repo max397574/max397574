@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="res/logo_banner.jpg" width=300>
+
 <h1 align="center">Hi 👋, I'm Max397574</h1>
 <h3 align="center">A Student From Switzerland</h3>
 
