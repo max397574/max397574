@@ -27,4 +27,5 @@ I am a Student from Switzerland.
 
 ### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=max397574&theme=onedark&border_radius=6&background=242939)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max397574&show_icons=true&theme=onedark&border_radius=6&bg_color=242939)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max397574&show_icons=true&theme=onedark&border_radius=6&bg_color=242939&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
