@@ -6,7 +6,7 @@
 I am a Student from Switzerland.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max397574" alt="max397574" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max397574&theme=onedark" alt="max397574" /></a> </p>
 
 - 🔭 I'm currently working on developing neovim plugins.
 
