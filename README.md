@@ -3,18 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=max397574&label=Profile%20views&color=0e75b6&style=flat" alt="max397574" />
 </div>
 
-I am a Student.
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max397574&theme=onedark&column=7" alt="max397574" /></a> </p>
-
-- 🔭 I'm currently working on developing neovim plugins.
-
-- 🌱 I'm currently learning Rust.
-
-- 🤝 Feel free to give me any tips for any of my projects.
-
-
 ### 🛠️ Languages and Tools:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
